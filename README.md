@@ -5,6 +5,6 @@ I've been programming games since school. Doing it professionaly (= getting paid
 
 I'm most proficinet with JavaScript, TypeScript and Haxe. Dabbled with many other languanges as well.
 
-Right now I'm learning (and re-learning) a bunch of things I somehow missed in the past years. Mostly "regular" frontend, but also things like how does V8 JIT-compilation work or when does pixi.js batch sprites its rendering, etc.
+Right now I'm learning (and re-learning) a bunch of things I somehow missed in the past years. Mostly "regular" frontend, but also things like how does V8 JIT-compilation work or when does pixi.js batch the sprites its rendering, etc.
 
 Also finishing my own game while **looking for a new job**.
